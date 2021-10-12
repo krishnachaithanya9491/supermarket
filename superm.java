@@ -5,3 +5,5 @@ this is my first git program
 need to store some ather data
 y needs
 
+other data is also required to tht file
+
